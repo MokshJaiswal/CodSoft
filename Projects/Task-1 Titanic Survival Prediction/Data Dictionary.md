@@ -3,18 +3,19 @@ Data Information - Training data for Kaggle Titanic introductory comp.
 Data Variables (Test / Train)
 Describes the variables in the test / train .csv files. This data dictionary and subsequent info was obtained from Kaggle.
 
-# Variable	Description	                         Details
-survival	  Survival	                           0 = No; 1 = Yes
-pclass	    Passenger Class	                     1 = 1st; 2 = 2nd; 3 = 3rd
-name	      First and Last Name	 
-sex	        Sex	 
-age	        Age	 
-sibsp	      Number of Siblings/Spouses Aboard	 
-parch	      Number of Parents/Children Aboard	 
-ticket	    Ticket Number	 
-fare	      Passenger Fare	 
-cabin	      Cabin	 
-embarked	  Port of Embarkation	                  C = Cherbourg; Q = Queenstown; S = Southampton
+|Variable	|Description	                         |Details|
+|---|---|---|
+|survival	|Survival	                            |0 = No; 1 = Yes|
+|pclass	  |Passenger Class	                     |1 = 1st; 2 = 2nd; 3 = 3rd|
+|name	    |First and Last Name	                 ||
+|sex	     |Sex	                                 ||
+|age	     |Age	                                 ||
+|sibsp	   |Number of Siblings/Spouses Aboard	   ||
+|parch	   |Number of Parents/Children Aboard	   ||
+|ticket	  |Ticket Number	                       ||
+|fare	    |Passenger Fare	                      ||
+|cabin	   |Cabin	                               ||
+|embarked	|Port of Embarkation	                 | C = Cherbourg; Q = Queenstown; S = Southampton|
  	 	 
 # SPECIAL NOTES:
 PClass can be a proxy for socio-economic status (SES)
